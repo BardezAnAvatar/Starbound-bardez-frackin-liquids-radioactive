@@ -1,0 +1,10 @@
+{
+  "itemName" : "molten-plutonium",
+  "rarity" : "uncommon",
+  "category" : "liquid",
+  "inventoryIcon" : "molten-plutonium.png",
+  "shortdescription" : "Liquid Plutonium",
+  "description" : "A measure of molten plutonium (^gray;Pu^reset;). Elemental byproduct of radioactive decay.\n^yellow;Centrifugable^reset;.",
+  "liquid" : "liquid-plutonium",
+  "price": 200
+}

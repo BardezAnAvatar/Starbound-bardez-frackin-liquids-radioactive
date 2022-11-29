@@ -7,54 +7,139 @@ This repo is a mod for [Starbound](https://playstarbound.com/), based on top of 
 This mod does the following:
 
 - [ ] Adds in even more liquids based on Frackin' Universe ores/materials:
-     - [ ] Non-metallurgy Things
-       - [ ] Liquid Lead
-       - [ ] Liquid Silicone
-       - [ ] Liquid Sulphur
-       - [ ] Liquid Magnesite
-       - [ ] Liquid Mascagnite
-       - [ ] Liquid Oxygen
-       - [ ] Liquid Methynol
-     - [ ] Inert Ores
-       - [ ] Tier 2.5
-         - [ ] Liquid Telebrium
-       - [ ] Tier 3.5
-         - [ ] Liquid Advanced Alloy
-         - [ ] Liquid Zerchesium
-         - [ ] Liquid Penumbrite
-       - [ ] Tier 4
-         - [ ] Liquid Trianglium
-         - [ ] Liquid Quietus
-         - [ ] Liquid Lasombrium
-       - [ ] Tier 5
-         - [ ] Liquid Effigium
-       - [ ] Tier 5.5
-         - [ ] Liquid Dense Alloy
-       - [ ] Tier 6
-         - [ ] Liquid Densinium
-         - [ ] Liquid Pyreite
-         - [ ] Liquid Isogen
-     - [ ] Radioactive Ores
-       - [ ] Tier 2
-         - [ ] Liquid Plutonium (Note: why is this before uranium??)
-       - [ ] Tier 3
-         - [ ] Liquid Uranium
-       - [ ] Tier 4
-         - [ ] Liquid Neptunium
-       - [ ] Tier 5
-         - [ ] Liquid Thorium
-     - [ ] Crystalworking
-       - [ ] Liquid Lunari
-       - [ ] Liquid Prism
-       - [ ] Liquid Xithricite
-     - [ ] Madness
-       - [ ] Liquid Nocxium
-       - [ ] Liquid Neutronium
-       - [ ] Liquid Anti-Neutronium
-     - Things Not Done
-       - Cinnabar (simply yields mercury, already an FU liquid)
-       - Protocite (already has an FU liquid)
-       - Irradium (already has an FU liquid)
+  - [X] Non-metallurgy Things
+    - [X] Liquid Lead
+    - [X] Liquid Silicon
+    - [X] Liquid Sulphur
+    - [X] Liquid Oxygen
+  - [X] Nonradioactive Ores
+    - [X] Tier 2
+      - [X] Liquid Telebrium
+    - [X] Tier 3
+      - [X] Liquid Zerchesium
+      - [X] Liquid Penumbrite
+      - [X] Liquid Advanced Alloy
+    - [X] Tier 4
+      - [X] Liquid Trianglium
+      - [X] Liquid Quietus
+      - [X] Liquid Lasombrium
+    - [x] Tier 5
+      - [X] Liquid Effigium
+      - [x] Liquid Dense Alloy
+    - [X] Tier 6
+      - [X] Liquid Densinium
+      - [X] Liquid Pyreite
+      - [X] Liquid Isogen
+  - [X] Radioactive Ores
+      - [X] Liquid Plutonium (Note: why is this before uranium??)
+      - [X] Liquid Uranium
+      - [X] Liquid Neptunium
+      - [X] Liquid Thorium
+  - [ ] Crystalworking
+    - [ ] Liquid Lunari
+    - [ ] Liquid Prism
+    - [ ] Liquid Xithricite
+  - [ ] Madness
+    - [ ] Liquid Nocxium
+    - [ ] Liquid Neutronium
+    - [ ] Liquid Anti-Neutronium
+  - Liquids I am debating
+    - [ ] Liquid Magnesite
+    - [ ] Liquid Mascagnite
+    - [ ] Liquid Methynol
+  - Things Not Done
+    - Cinnabar (simply yields mercury, already an FU liquid)
+    - Protocite (already has an FU liquid)
+    - Irradium (already has an FU liquid)
 
 - [ ] Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids
+  - [ ] Liquid Lead
+    - Yields Lead, Phosphorus, Oxygen
+  - [ ] Liquid Silicon
+    - Yields Sand, Silicon, Oxygen
+  - [ ] Liquid Sulphur
+    - Yields Sulphur, Hydrogen, Silver Ore (rare)
+  - [ ] Liquid Oxygen
+    - Yields O2, Water, 
+  - [ ] Liquid Telebrium
+    - Yields moonore (telebrium), moondust, moonrock, helium-3 (super rare)
+  - [ ] Liquid Zerchesium
+    - Yields Zerchesium ore, silt CO2
+  - [ ] Liquid Penumbrite
+    - Yields penumbrite ore, sand, hydrogen
+  - [ ] Liquid Advanced Alloy
+    - Yields zerchesium ore, lead, penumbrite, protocite (all fairly rare)
+  - [ ] Liquid Trianglium
+    - Yields trianglium ore, pixel, sand
+  - [ ] Liquid Quietus
+    - Yields quietus ore, genes, silicon
+  - [ ] Liquid Lasombrium
+    - Yields lasombrium ore, dark water (rare), Essentia Obscura (super rare)
+  - [ ] Liquid Effigium
+    - Yields effigium ore, liquid silver (rare), silicon
+  - [ ] Liquid Dense Alloy
+    - Yields aegisalt ore, ferozium ore, violium ore, lead
+  - [ ] Liquid Densinium
+    - Yields Densinium ore, lead, silicon
+  - [ ] Liquid Pyreite
+    - Yields Pyreite ore, phosphorus, oxygen
+  - [ ] Liquid Isogen
+    - Yields Isogen ore, oxygen, ice block
+  - [ ] Liquid Plutonium
+    - Yields Plutonium ore, oxygen, uranium ore
+  - [ ] Liquid Uranium
+    - Yields Uranium ore, oxygen, thorium ore, lead
+  - [ ] Liquid Neptunium
+    - Yields Neptunium ore, oxygen, Plutonium ore, lead
+  - [ ] Liquid Thorium
+    - Yields Thorium ore, oxygen, lead, unstable particles (Radon)
+  - [ ] Liquid Lunari
+  - [ ] Liquid Prism
+  - [ ] Liquid Xithricite
+  - [ ] Liquid Nocxium
+  - [ ] Liquid Neutronium
+  - [ ] Liquid Anti-Neutronium
 - [ ] Adds conversion recipes to the Atomic Furnace for these liquids
+    - TODO: Add liquid sulphur recipe for sulphuric acid
+- [ ] Adds research recipes to the research system for these liquids
+  - [ ] Non-metallurgy Things
+    - [ ] Liquid Lead
+    - [ ] Liquid Silicon
+    - [ ] Liquid Sulphur
+    - [ ] Liquid Oxygen
+  - [ ] Nonradioactive Ores
+    - [ ] Tier 2
+      - [ ] Liquid Telebrium
+    - [ ] Tier 3
+      - [ ] Liquid Advanced Alloy
+      - [ ] Liquid Zerchesium
+      - [ ] Liquid Penumbrite
+    - [ ] Tier 4
+      - [ ] Liquid Trianglium
+      - [ ] Liquid Quietus
+      - [ ] Liquid Lasombrium
+    - [ ] Tier 5
+      - [ ] Liquid Effigium
+      - [ ] Liquid Dense Alloy
+    - [ ] Tier 6
+      - [ ] Liquid Densinium
+      - [ ] Liquid Pyreite
+      - [ ] Liquid Isogen
+  - [ ] Radioactive Ores
+      - [ ] Liquid Plutonium
+      - [ ] Liquid Uranium
+      - [ ] Liquid Neptunium
+      - [ ] Liquid Thorium
+  - [ ] Crystalworking
+    - [ ] Liquid Lunari
+    - [ ] Liquid Prism
+    - [ ] Liquid Xithricite
+  - [ ] Madness
+    - [ ] Liquid Nocxium
+    - [ ] Liquid Neutronium
+    - [ ] Liquid Anti-Neutronium
+- [ ] Adds liquid mixing reactions
+  - [ ] TODO: what reactions do I want to add?
+    - All of the radioactive ones should net some fun interactions to other radioactive liquids
+      - neptunium->plutonium->uranium -> thorium
+    - Maybe aether/obscura/etc yields anti-neutronium, etc.

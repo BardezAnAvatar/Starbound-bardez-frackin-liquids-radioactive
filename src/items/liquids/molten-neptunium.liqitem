@@ -1,0 +1,10 @@
+{
+  "itemName" : "molten-neptunium",
+  "rarity" : "rare",
+  "category" : "liquid",
+  "inventoryIcon" : "molten-neptunium.png",
+  "shortdescription" : "Liquid Neptunium",
+  "description" : "A measure of molten neptunium (^gray;Np^reset;). Elemental byproduct of radioactive decay.\n^yellow;Centrifugable^reset;.",
+  "liquid" : "liquid-neptunium",
+  "price": 200
+}

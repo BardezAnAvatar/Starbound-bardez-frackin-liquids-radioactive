@@ -1,0 +1,10 @@
+{
+  "itemName" : "molten-uranium",
+  "rarity" : "uncommon",
+  "category" : "liquid",
+  "inventoryIcon" : "molten-uranium.png",
+  "shortdescription" : "Liquid Uranium",
+  "description" : "A measure of molten uranium (^gray;U^reset;). Slightly radioactive.\n^yellow;Centrifugable^reset;.",
+  "liquid" : "liquid-uranium",
+  "price": 200
+}

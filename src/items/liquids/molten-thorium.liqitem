@@ -1,0 +1,10 @@
+{
+  "itemName" : "molten-thorium",
+  "rarity" : "rare",
+  "category" : "liquid",
+  "inventoryIcon" : "molten-thorium.png",
+  "shortdescription" : "Liquid Thorium",
+  "description" : "A measure of molten thorium (^gray;Th^reset;). Emits Radon gas.\n^yellow;Centrifugable^reset;.",
+  "liquid" : "liquid-thorium",
+  "price": 200
+}

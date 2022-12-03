@@ -6,12 +6,7 @@ This repo is a mod for [Starbound](https://playstarbound.com/), based on top of 
 
 This mod does the following:
 
-- [ ] Adds in even more liquids based on Frackin' Universe ores/materials:
-  - [X] Non-metallurgy Things
-    - [X] Liquid Lead
-    - [X] Liquid Silicon
-    - [X] Liquid Sulphur
-    - [X] Liquid Oxygen
+- [X] Adds in even more liquids based on Frackin' Universe ores/bars/similar:
   - [X] Nonradioactive Ores
     - [X] Tier 2
       - [X] Liquid Telebrium
@@ -53,14 +48,6 @@ This mod does the following:
     - Irradium (already has an FU liquid)
 
 - [ ] Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids
-  - [ ] Liquid Lead
-    - Yields Lead, Phosphorus, Oxygen
-  - [ ] Liquid Silicon
-    - Yields Sand, Silicon, Oxygen
-  - [ ] Liquid Sulphur
-    - Yields Sulphur, Hydrogen, Silver Ore (rare)
-  - [ ] Liquid Oxygen
-    - Yields O2, Water, 
   - [ ] Liquid Telebrium
     - Yields moonore (telebrium), moondust, moonrock, helium-3 (super rare)
   - [ ] Liquid Zerchesium
@@ -100,13 +87,7 @@ This mod does the following:
   - [ ] Liquid Neutronium
   - [ ] Liquid Anti-Neutronium
 - [ ] Adds conversion recipes to the Atomic Furnace for these liquids
-    - TODO: Add liquid sulphur recipe for sulphuric acid
 - [ ] Adds research recipes to the research system for these liquids
-  - [ ] Non-metallurgy Things
-    - [ ] Liquid Lead
-    - [ ] Liquid Silicon
-    - [ ] Liquid Sulphur
-    - [ ] Liquid Oxygen
   - [ ] Nonradioactive Ores
     - [ ] Tier 2
       - [ ] Liquid Telebrium

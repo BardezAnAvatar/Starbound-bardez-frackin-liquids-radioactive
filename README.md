@@ -4,6 +4,8 @@ This repo is a mod for [Starbound](https://playstarbound.com/), based on top of 
 - [Frackin' Universe](https://steamcommunity.com/sharedfiles/filedetails/?id=729480149) 
 - [mORE Liquids](https://steamcommunity.com/sharedfiles/filedetails/?id=1318339314) (for inspiration)
 
+This repo was branched off of [Starbound-bardez-ore-liquids-frackin](https://github.com/BardezAnAvatar/Starbound-bardez-ore-liquids-frackin) and its original commit history reflects that of its originating repo
+
 This mod does the following:
 
 - [X] Adds in more liquids based on Frackin' Universe radioactive ores/isotopes/rods:

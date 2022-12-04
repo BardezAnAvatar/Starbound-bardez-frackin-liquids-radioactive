@@ -1,77 +1,20 @@
-# Starbound-bardez-ore-liquids-frackin
+# Starbound-bardez-frackin-liquids-radioactive
 
 This repo is a mod for [Starbound](https://playstarbound.com/), based on top of the following mods:
 - [Frackin' Universe](https://steamcommunity.com/sharedfiles/filedetails/?id=729480149) 
 - [mORE Liquids](https://steamcommunity.com/sharedfiles/filedetails/?id=1318339314) (for inspiration)
 
+This repo was branched off of [Starbound-bardez-ore-liquids-frackin](https://github.com/BardezAnAvatar/Starbound-bardez-ore-liquids-frackin) and its original commit history reflects that of its originating repo
+
 This mod does the following:
 
-- [X] Adds in even more liquids based on Frackin' Universe ores/bars/similar:
-  - [X] Nonradioactive Ores
-    - [X] Tier 2
-      - [X] Liquid Telebrium
-    - [X] Tier 3
-      - [X] Liquid Zerchesium
-      - [X] Liquid Penumbrite
-      - [X] Liquid Advanced Alloy
-    - [X] Tier 4
-      - [X] Liquid Trianglium
-      - [X] Liquid Quietus
-      - [X] Liquid Lasombrium
-    - [x] Tier 5
-      - [X] Liquid Effigium
-      - [x] Liquid Dense Alloy
-    - [X] Tier 6
-      - [X] Liquid Densinium
-      - [X] Liquid Pyreite
-      - [X] Liquid Isogen
+- [X] Adds in more liquids based on Frackin' Universe radioactive ores/isotopes/rods:
   - [X] Radioactive Ores
-      - [X] Liquid Plutonium (Note: why is this before uranium??)
-      - [X] Liquid Uranium
-      - [X] Liquid Neptunium
-      - [X] Liquid Thorium
-  - [ ] Crystalworking
-    - [ ] Liquid Lunari
-    - [ ] Liquid Prism
-    - [ ] Liquid Xithricite
-  - [ ] Madness
-    - [ ] Liquid Nocxium
-    - [ ] Liquid Neutronium
-    - [ ] Liquid Anti-Neutronium
-  - Liquids I am debating
-    - [ ] Liquid Magnesite
-    - [ ] Liquid Mascagnite
-    - [ ] Liquid Methynol
-  - Things Not Done
-    - Cinnabar (simply yields mercury, already an FU liquid)
-    - Protocite (already has an FU liquid)
-    - Irradium (already has an FU liquid)
-
+    - [X] Liquid Plutonium (Note: why is this before uranium??)
+    - [X] Liquid Uranium
+    - [X] Liquid Neptunium
+    - [X] Liquid Thorium
 - [ ] Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids
-  - [ ] Liquid Telebrium
-    - Yields moonore (telebrium), moondust, moonrock, helium-3 (super rare)
-  - [ ] Liquid Zerchesium
-    - Yields Zerchesium ore, silt CO2
-  - [ ] Liquid Penumbrite
-    - Yields penumbrite ore, sand, hydrogen
-  - [ ] Liquid Advanced Alloy
-    - Yields zerchesium ore, lead, penumbrite, protocite (all fairly rare)
-  - [ ] Liquid Trianglium
-    - Yields trianglium ore, pixel, sand
-  - [ ] Liquid Quietus
-    - Yields quietus ore, genes, silicon
-  - [ ] Liquid Lasombrium
-    - Yields lasombrium ore, dark water (rare), Essentia Obscura (super rare)
-  - [ ] Liquid Effigium
-    - Yields effigium ore, liquid silver (rare), silicon
-  - [ ] Liquid Dense Alloy
-    - Yields aegisalt ore, ferozium ore, violium ore, lead
-  - [ ] Liquid Densinium
-    - Yields Densinium ore, lead, silicon
-  - [ ] Liquid Pyreite
-    - Yields Pyreite ore, phosphorus, oxygen
-  - [ ] Liquid Isogen
-    - Yields Isogen ore, oxygen, ice block
   - [ ] Liquid Plutonium
     - Yields Plutonium ore, oxygen, uranium ore
   - [ ] Liquid Uranium
@@ -80,47 +23,14 @@ This mod does the following:
     - Yields Neptunium ore, oxygen, Plutonium ore, lead
   - [ ] Liquid Thorium
     - Yields Thorium ore, oxygen, lead, unstable particles (Radon)
-  - [ ] Liquid Lunari
-  - [ ] Liquid Prism
-  - [ ] Liquid Xithricite
-  - [ ] Liquid Nocxium
-  - [ ] Liquid Neutronium
-  - [ ] Liquid Anti-Neutronium
 - [ ] Adds conversion recipes to the Atomic Furnace for these liquids
 - [ ] Adds research recipes to the research system for these liquids
-  - [ ] Nonradioactive Ores
-    - [ ] Tier 2
-      - [ ] Liquid Telebrium
-    - [ ] Tier 3
-      - [ ] Liquid Advanced Alloy
-      - [ ] Liquid Zerchesium
-      - [ ] Liquid Penumbrite
-    - [ ] Tier 4
-      - [ ] Liquid Trianglium
-      - [ ] Liquid Quietus
-      - [ ] Liquid Lasombrium
-    - [ ] Tier 5
-      - [ ] Liquid Effigium
-      - [ ] Liquid Dense Alloy
-    - [ ] Tier 6
-      - [ ] Liquid Densinium
-      - [ ] Liquid Pyreite
-      - [ ] Liquid Isogen
   - [ ] Radioactive Ores
-      - [ ] Liquid Plutonium
-      - [ ] Liquid Uranium
-      - [ ] Liquid Neptunium
-      - [ ] Liquid Thorium
-  - [ ] Crystalworking
-    - [ ] Liquid Lunari
-    - [ ] Liquid Prism
-    - [ ] Liquid Xithricite
-  - [ ] Madness
-    - [ ] Liquid Nocxium
-    - [ ] Liquid Neutronium
-    - [ ] Liquid Anti-Neutronium
+    - [ ] Liquid Plutonium
+    - [ ] Liquid Uranium
+    - [ ] Liquid Neptunium
+    - [ ] Liquid Thorium
 - [ ] Adds liquid mixing reactions
   - [ ] TODO: what reactions do I want to add?
     - All of the radioactive ones should net some fun interactions to other radioactive liquids
       - neptunium->plutonium->uranium -> thorium
-    - Maybe aether/obscura/etc yields anti-neutronium, etc.

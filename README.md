@@ -34,3 +34,6 @@ This mod does the following:
   - [ ] TODO: what reactions do I want to add?
     - All of the radioactive ones should net some fun interactions to other radioactive liquids
       - neptunium->plutonium->uranium -> thorium
+- TODO: Things I am not yet certain whether to do
+  - Liquids I am debating
+    - [ ] Liquid Tritium

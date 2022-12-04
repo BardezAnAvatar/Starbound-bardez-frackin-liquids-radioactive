@@ -10,10 +10,10 @@ This mod does the following:
 
 - [X] Adds in more liquids based on Frackin' Universe radioactive ores/isotopes/rods:
   - [X] Radioactive Ores
-      - [X] Liquid Plutonium (Note: why is this before uranium??)
-      - [X] Liquid Uranium
-      - [X] Liquid Neptunium
-      - [X] Liquid Thorium
+    - [X] Liquid Plutonium (Note: why is this before uranium??)
+    - [X] Liquid Uranium
+    - [X] Liquid Neptunium
+    - [X] Liquid Thorium
 - [ ] Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids
   - [ ] Liquid Plutonium
     - Yields Plutonium ore, oxygen, uranium ore

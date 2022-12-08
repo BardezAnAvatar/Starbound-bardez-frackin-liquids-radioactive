@@ -4,7 +4,8 @@
   "category" : "liquid",
   "inventoryIcon" : "molten-thorium.png",
   "shortdescription" : "Liquid Thorium",
-  "description" : "A measure of molten thorium (^gray;Th^reset;). Emits Radon gas.\n^yellow;Centrifugable^reset;.",
+  "description" : "A measure of molten thorium (^gray;Th^reset;). Emits Radon gas.\n^yellow;Centrifugable^reset;.\n^blue;+^white;2 ^blue;Fuel^reset;",
   "liquid" : "liquid-thorium",
-  "price": 200
+  "price": 200,
+  "fuelAmount": 2
 }

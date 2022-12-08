@@ -39,5 +39,5 @@ This mod does the following:
       - neptunium->plutonium->uranium -> thorium
 - TODO: Things I am not yet certain whether to do
   - Liquids I am debating
-    - [ ] ~~Liquid~~ gas Tritium
+    - [ ] ~~Liquid~~ Gas Tritium
     - [ ] Liquid Ultronium

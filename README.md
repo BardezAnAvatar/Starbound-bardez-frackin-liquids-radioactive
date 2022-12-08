@@ -27,9 +27,9 @@ This mod does the following:
     - Yields Neptunium ore, oxygen, Plutonium ore
   - [X] Liquid Thorium
     - Yields Thorium ore, oxygen, lead (representing end of chain), unstable particles (representing Radium/Radon, alpha and beta decay, etc.)
-- [ ] Adds conversion recipes to the Fission Furnace for these liquids
+- [X] Adds conversion recipes to the Fission Furnace for these liquids
   - [X] Liquid Plutonium
-  - [ ] Liquid Uranium
+  - [X] Liquid Uranium
   - [X] Liquid Neptunium
   - [X] Liquid Thorium
 - [ ] Adds research recipes to the research system for these liquids

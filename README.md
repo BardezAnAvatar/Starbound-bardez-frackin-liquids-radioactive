@@ -22,7 +22,7 @@ This mod does the following:
     - Yields Plutonium ore, oxygen, uranium ore
   - [ ] Liquid Uranium
     - Yields Uranium ore, oxygen, thorium ore, lead
-  - [ ] Liquid Neptunium
+  - [X] Liquid Neptunium
     - Yields Neptunium ore, oxygen, Plutonium ore, lead
   - [ ] Liquid Thorium
     - Yields Thorium ore, oxygen, lead, unstable particles (Radon)
@@ -39,4 +39,5 @@ This mod does the following:
       - neptunium->plutonium->uranium -> thorium
 - TODO: Things I am not yet certain whether to do
   - Liquids I am debating
-    - [ ] Liquid Tritium
+    - [ ] ~~Liquid~~ gas Tritium
+    - [ ] Liquid Ultronium

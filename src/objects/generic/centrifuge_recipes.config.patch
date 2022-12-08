@@ -36,7 +36,6 @@
     "path" : "/itemMapLiquids/molten-uranium",
     "value" : {
       "thoriumore": ["rare", 2],
-      "lead": ["rare", 1],
       "fu_oxygen": ["uncommon", 3],
       "uraniumore": ["uncommon", 2]
     }

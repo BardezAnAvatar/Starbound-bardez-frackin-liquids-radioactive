@@ -86,7 +86,7 @@
   {
     "op" : "add",
     "path" : "/strings/research/liquid_uranium",
-    "value" : [ "Molten Uranium", "^orange;Tier 3^reset;\n\n^cyan;Uranium^reset; (^gray;U^reset;), heated to its melting point of 1405.3 K (1132.2 C) under standard pressure.\n\nUranium appears naturally in multiple isotopes, with uranium-235 being the only naturally-found fissile isotope. Some isotopes are fertile and bred into plutonium (^gray;Pu^reset;).\n\nRequires an ^orange;Atomic Furnace^reset; to smelt." ]
+    "value" : [ "Molten Uranium", "^orange;Tier 3^reset;\n\n^cyan;Uranium^reset; (^gray;U^reset;), heated to its melting point of 1405.3 K (1132.2 C) under standard pressure.\n\nUranium appears naturally in multiple isotopes, with uranium-235 being the only naturally-found fissile isotope. Some isotopes are fertile and bred into plutonium (^gray;Pu^reset;).\n\nRequires an ^orange;Industrial Furnace^reset; to smelt." ]
   },
   //acronyms
   {

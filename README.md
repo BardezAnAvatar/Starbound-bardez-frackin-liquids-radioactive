@@ -18,7 +18,7 @@ This mod does the following:
   - Things Not Done
     - Deuterium (already an FU liquid)
 - [ ] Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids
-  - [ ] Liquid Plutonium
+  - [X] Liquid Plutonium
     - Yields Plutonium ore, oxygen, uranium ore
   - [ ] Liquid Uranium
     - Yields Uranium ore, oxygen, thorium ore, lead

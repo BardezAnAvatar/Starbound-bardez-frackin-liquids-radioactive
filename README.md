@@ -3,6 +3,7 @@
 This repo is a mod for [Starbound](https://playstarbound.com/), based on top of the following mods:
 - [Frackin' Universe](https://steamcommunity.com/sharedfiles/filedetails/?id=729480149)
 - [Molten Liquids tabs for Furnace: Fission Furnace Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2898371629) for organization
+- [Frackin' Universe Research: Move Isotopes in Geology off to the left](https://steamcommunity.com/sharedfiles/filedetails/?id=2897239142) for research grid organization (also I won't support two versions of this branch of the grid)
 - [mORE Liquids](https://steamcommunity.com/sharedfiles/filedetails/?id=1318339314) (for inspiration)
 
 This repo was branched off of [Starbound-bardez-ore-liquids-frackin](https://github.com/BardezAnAvatar/Starbound-bardez-ore-liquids-frackin) and its original commit history reflects that of its originating repo
@@ -32,11 +33,11 @@ This mod does the following:
   - [X] Liquid Uranium
   - [X] Liquid Neptunium
   - [X] Liquid Thorium
-- [ ] Adds research recipes to the research system for these liquids
-  - [ ] Liquid Plutonium
-  - [ ] Liquid Uranium
-  - [ ] Liquid Neptunium
-  - [ ] Liquid Thorium
+- [X] Adds research recipes to the research system for these liquids
+  - [X] Liquid Plutonium
+  - [X] Liquid Uranium
+  - [X] Liquid Neptunium
+  - [X] Liquid Thorium
 - TODO: Things I am not yet certain whether to do
   - Liquids I am debating
     - [ ] ~~Liquid~~ Gas Tritium

@@ -1,0 +1,112 @@
+[
+  //liquid neptunium
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_neptunium",
+    "value" : {
+      "icon" : "/items/liquids/molten-neptunium.png",
+      "children" : [ ],
+      "position" : [-160, 80],
+      "price" : [["fuscienceresource", 4000], ["neptuniumrod", 3]],
+      "unlocks" : [ "molten-neptunium" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/isotopes3/children",
+    "value" : [ "liquid_neptunium" ]
+  },
+  //liquid Plutonium
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_plutonium",
+    "value" : {
+      "icon" : "/items/liquids/molten-plutonium.png",
+      "children" : [ ],
+      "position" : [-90, 120],
+      "price" : [["fuscienceresource", 4000], ["plutoniumrod", 3]],
+      "unlocks" : [ "molten-plutonium" ]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/isotopes1/children/-",
+    "value" : "liquid_plutonium"
+  },
+  //liquid thorium
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_thorium",
+    "value" : {
+      "icon" : "/items/liquids/molten-thorium.png",
+      "children" : [ ],
+      "position" : [-160, 120],
+      "price" : [["fuscienceresource", 5000], ["thoriumrod", 3]],
+      "unlocks" : [ "molten-thorium" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/isotopes4/children",
+    "value" : [ "liquid_thorium" ]
+  },
+  //liquid uranium
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_uranium",
+    "value" : {
+      "icon" : "/items/liquids/molten-uranium.png",
+      "children" : [ ],
+      "position" : [ -30, 120 ],
+      "price" : [["fuscienceresource", 5000], ["uraniumrod", 3]],
+      "unlocks" : [ "molten-uranium" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/isotopes2/children",
+    "value" : [ "liquid_uranium" ]
+  },
+  //strings
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_neptunium",
+    "value" : [ "Molten Neptunium", "^orange;Tier 4^reset;\n\n^cyan;Neptunium^reset; (^gray;Np^reset;), heated to its melting point of 917 K (644 C) under standard pressure.\n\nNeptunium-237 is the most common isotope of the element, with a half-life of 2,144,000 years. Neptunium is the starting element of the \"Neptunium series\" of radioactive decay which ends with the stable element of lead (^gray;Pb^reset;).\n\nRequires an ^orange;Industrial Furnace^reset; to smelt." ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_plutonium",
+    "value" : [ "Molten Plutonium", "^orange;Tier 2^reset;\n\n^cyan;Plutonium^reset; (^gray;Pu^reset;), heated to its melting point of 912.5 K (639.4 C) under standard pressure.\n\nPlutonium-244 is the longest-living isotope with a half-life of 80.8 million years, though plutonium-239 is the principal form used with fissile reactions. Notably, plutonium-240 yields spontaneous fission reactions and is highly unstable. Plutonium naturally decays by radioactivity into uranium (^gray;U^reset;).\n\nRequires an ^orange;Industrial Furnace^reset; to smelt." ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_thorium",
+    "value" : [ "Molten Thorium", "^orange;Tier 5^reset;\n\n^cyan;Thorium^reset; (^gray;Th^reset;), heated to its melting point of 2023 K (1750 C) under standard pressure.\n\nThorium-232 is the only isotope of thorium occurring in quantity in nature, with a half-life of 14.05 billion years (the age of the universe), though is not fissile itself; it is a breeding element for uranium-233 (^gray;U^reset;) under neutron bombardment.\n\nRequires an ^orange;Atomic Furnace^reset; to smelt." ]
+  },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_uranium",
+    "value" : [ "Molten Uranium", "^orange;Tier 3^reset;\n\n^cyan;Uranium^reset; (^gray;U^reset;), heated to its melting point of 1405.3 K (1132.2 C) under standard pressure.\n\nUranium appears naturally in multiple isotopes, with uranium-235 being the only naturally-found fissile isotope. Some isotopes are fertile and bred into plutonium (^gray;Pu^reset;).\n\nRequires an ^orange;Atomic Furnace^reset; to smelt." ]
+  },
+  //acronyms
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/FRARADLIQ01",
+    "value" : "liquid_neptunium"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/FRARADLIQ02",
+    "value" : "liquid_plutonium"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/FRARADLIQ03",
+    "value" : "liquid_thorium"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/FRARADLIQ04",
+    "value" : "liquid_uranium"
+  }
+]

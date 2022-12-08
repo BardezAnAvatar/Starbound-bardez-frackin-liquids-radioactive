@@ -25,7 +25,7 @@
   {
     "op" : "add",
     "path" : "/itemMapIsotopes/molten-plutonium",
-    "value" : {,
+    "value" : {
       "enrichedplutonium": ["rareset", 2],
       "uraniumore": ["rare", 2],
       "fu_oxygen": ["uncommon", 3],

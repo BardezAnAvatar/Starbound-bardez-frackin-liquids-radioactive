@@ -1,14 +1,14 @@
 {
   "input" : [
-    { "item" : "molten-thorium", "count" : 4 }
+    { "item" : "thoriumrod", "count" : 1 }
   ],
   "output" : {
-    "item" : "thoriumrod",
-    "count" : 1
+    "item" : "molten-thorium",
+    "count" : 4
   },
   "duration" : 0.2,
   "groups" : [
-    "fissionfurnace", "coalesce",
+    "craftingfurnace3", "smelt",
     "nouncrafting", "norecycling" //both of these prevent un-crafting in other mods
   ]
 }

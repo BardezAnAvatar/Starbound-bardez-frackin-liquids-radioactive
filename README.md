@@ -30,7 +30,7 @@ This mod does the following:
 - [ ] Adds conversion recipes to the Fission Furnace for these liquids
   - [ ] Liquid Plutonium
   - [ ] Liquid Uranium
-  - [ ] Liquid Neptunium
+  - [X] Liquid Neptunium
   - [ ] Liquid Thorium
 - [ ] Adds research recipes to the research system for these liquids
   - [ ] Liquid Plutonium

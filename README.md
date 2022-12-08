@@ -17,7 +17,7 @@ This mod does the following:
   | Liquid Thorium    | 190       |
   - Things Not Done
     - Deuterium (already an FU liquid)
-- [X] Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids
+- [X] Adds isotope list (i.e. Gas Centrifuge only) centrifuge recipes to Frackin' Universe centrifuges for these liquids
   - [X] Liquid Plutonium
     - Yields Plutonium ore, oxygen, uranium ore
   - [X] Liquid Uranium

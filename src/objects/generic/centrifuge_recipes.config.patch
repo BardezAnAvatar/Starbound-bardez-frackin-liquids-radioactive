@@ -1,0 +1,55 @@
+[
+  /*
+  Note: Centrifuges only ever spawn 1 item per input. The second index after the commonality is not a spawn count, but instead
+  the divisor of the occurrance. i.e.: makes it even rarer than it already is. See: /objects/bees/centrifuge.lua, method `update(dt)`
+  */
+  /*
+  Example rates from gas centrifuge:
+      "itemChances": {
+        "rarest": 0.012,
+        "rare": 0.032,
+        "uncommon": 0.09,
+        "normal": 0.22,
+        "common": 0.32
+      },
+  */
+  {
+    "op" : "add",
+    "path" : "/itemMapIsotopes/molten-neptunium",
+    "value" : {
+      "plutoniumore": ["rare", 2],
+      "fu_oxygen": ["uncommon", 3],
+      "neptuniumore": ["uncommon", 2]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapIsotopes/molten-plutonium",
+    "value" : {,
+      "enrichedplutonium": ["rareset", 2],
+      "uraniumore": ["rare", 2],
+      "fu_oxygen": ["uncommon", 3],
+      "plutoniumore": ["uncommon", 2]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapIsotopes/molten-uranium",
+    "value" : {
+      "enricheduranium": ["rareset", 2],
+      "thoriumore": ["rare", 2],
+      "fu_oxygen": ["uncommon", 3],
+      "uraniumore": ["uncommon", 2]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapIsotopes/molten-thorium",
+    "value" : {
+      "lead": ["rare", 1],  //represents the end result of the decay chain
+      "unstableparticles": ["rare", 1], //represents alpha and beta decays
+      "fu_oxygen": ["uncommon", 3],
+      "thoriumore": ["uncommon", 2]
+    }
+  }
+]

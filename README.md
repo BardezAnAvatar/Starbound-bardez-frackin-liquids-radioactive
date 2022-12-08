@@ -7,13 +7,16 @@ This repo is a mod for [Starbound](https://playstarbound.com/), based on top of 
 This repo was branched off of [Starbound-bardez-ore-liquids-frackin](https://github.com/BardezAnAvatar/Starbound-bardez-ore-liquids-frackin) and its original commit history reflects that of its originating repo
 
 This mod does the following:
-
 - [X] Adds in more liquids based on Frackin' Universe radioactive ores/isotopes/rods:
   - [X] Radioactive Ores
-    - [X] Liquid Plutonium (Note: why is this before uranium??)
-    - [X] Liquid Uranium
-    - [X] Liquid Neptunium
-    - [X] Liquid Thorium
+  | Liquid            | Liquid ID |
+  |-------------------|-----------|
+  | Liquid Plutonium  | 187       |
+  | Liquid Uranium    | 188       |
+  | Liquid Neptunium  | 189       |
+  | Liquid Thorium    | 190       |
+  - Things Not Done
+    - Deuterium (already an FU liquid)
 - [ ] Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids
   - [ ] Liquid Plutonium
     - Yields Plutonium ore, oxygen, uranium ore

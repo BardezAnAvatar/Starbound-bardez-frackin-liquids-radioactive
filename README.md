@@ -17,15 +17,15 @@ This mod does the following:
   | Liquid Thorium    | 190       |
   - Things Not Done
     - Deuterium (already an FU liquid)
-- [ ] Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids
+- [X] Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids
   - [X] Liquid Plutonium
     - Yields Plutonium ore, oxygen, uranium ore
   - [X] Liquid Uranium
-    - Yields Uranium ore, oxygen, thorium ore, lead
+    - Yields Uranium ore, oxygen, thorium ore
   - [X] Liquid Neptunium
-    - Yields Neptunium ore, oxygen, Plutonium ore, lead
-  - [ ] Liquid Thorium
-    - Yields Thorium ore, oxygen, lead, unstable particles (Radon)
+    - Yields Neptunium ore, oxygen, Plutonium ore
+  - [X] Liquid Thorium
+    - Yields Thorium ore, oxygen, lead (representing end of chain), unstable particles (representing Radium/Radon, alpha and beta decay, etc.)
 - [ ] Adds conversion recipes to the Atomic Furnace for these liquids
 - [ ] Adds research recipes to the research system for these liquids
   - [ ] Radioactive Ores

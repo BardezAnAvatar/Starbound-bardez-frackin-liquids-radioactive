@@ -1,7 +1,8 @@
 # Starbound-bardez-frackin-liquids-radioactive
 
 This repo is a mod for [Starbound](https://playstarbound.com/), based on top of the following mods:
-- [Frackin' Universe](https://steamcommunity.com/sharedfiles/filedetails/?id=729480149) 
+- [Frackin' Universe](https://steamcommunity.com/sharedfiles/filedetails/?id=729480149)
+- [Molten Liquids tabs for Furnace: Fission Furnace Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2898371629) for organization
 - [mORE Liquids](https://steamcommunity.com/sharedfiles/filedetails/?id=1318339314) (for inspiration)
 
 This repo was branched off of [Starbound-bardez-ore-liquids-frackin](https://github.com/BardezAnAvatar/Starbound-bardez-ore-liquids-frackin) and its original commit history reflects that of its originating repo
@@ -26,17 +27,16 @@ This mod does the following:
     - Yields Neptunium ore, oxygen, Plutonium ore
   - [X] Liquid Thorium
     - Yields Thorium ore, oxygen, lead (representing end of chain), unstable particles (representing Radium/Radon, alpha and beta decay, etc.)
-- [ ] Adds conversion recipes to the Fission Furnace for these liquids
+- [X] Adds conversion recipes to the Fission Furnace for these liquids
+  - [X] Liquid Plutonium
+  - [X] Liquid Uranium
+  - [X] Liquid Neptunium
+  - [X] Liquid Thorium
 - [ ] Adds research recipes to the research system for these liquids
-  - [ ] Radioactive Ores
-    - [ ] Liquid Plutonium
-    - [ ] Liquid Uranium
-    - [ ] Liquid Neptunium
-    - [ ] Liquid Thorium
-- [ ] Adds liquid mixing reactions
-  - [ ] TODO: what reactions do I want to add?
-    - All of the radioactive ones should net some fun interactions to other radioactive liquids
-      - neptunium->plutonium->uranium -> thorium
+  - [ ] Liquid Plutonium
+  - [ ] Liquid Uranium
+  - [ ] Liquid Neptunium
+  - [ ] Liquid Thorium
 - TODO: Things I am not yet certain whether to do
   - Liquids I am debating
     - [ ] ~~Liquid~~ Gas Tritium

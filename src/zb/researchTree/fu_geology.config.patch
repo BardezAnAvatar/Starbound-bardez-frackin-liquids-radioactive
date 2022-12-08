@@ -16,16 +16,43 @@
     "path" : "/researchTree/fu_geology/isotopes3/children",
     "value" : [ "liquid_neptunium" ]
   },
+  //liquid Plutonium
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_plutonium",
+    "value" : {
+      "icon" : "/items/liquids/molten-plutonium.png",
+      "children" : [ ],
+      "position" : [-90, 120],
+      "price" : [["fuscienceresource", 4000], ["plutoniumrod", 3]],
+      "unlocks" : [ "molten-plutonium" ]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/isotopes1/children/-",
+    "value" : "liquid_plutonium"
+  },
   //strings
   {
     "op" : "add",
     "path" : "/strings/research/liquid_neptunium",
     "value" : [ "Molten Neptunium", "^orange;Tier 4^reset;\n\n^cyan;Neptunium^reset; (^gray;Np^reset;), heated to its melting point of 917 K (644 C) under standard pressure.\n\nNeptunium-237 is the most common isotope of the element, with a half-life of 2,144,000 years. Neptunium is the starting element of the \"Neptunium series\" of radioactive decay which ends with the stable element of lead (^gray;Pb^reset;).\n\nRequires an ^orange;Industrial Furnace^reset; to smelt." ]
   },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_plutonium",
+    "value" : [ "Molten Plutonium", "^orange;Tier 2^reset;\n\n^cyan;Plutonium^reset; (^gray;Pu^reset;), heated to its melting point of 912.5 K (639.4 C) under standard pressure.\n\nPlutonium-244 is the longest-living isotope with a half-life of 80.8 million years, though plutonium-239 is the principal form used with fissile reactions. Notably, plutonium-240 yields spontaneous fission reactions and is highly unstable. Plutonium naturally decays by radioactivity into uranium (^gray;U^reset;).\n\nRequires an ^orange;Industrial Furnace^reset; to smelt." ]
+  },
   //acronyms
   {
     "op" : "add",
     "path" : "/acronyms/fu_geology/FRARADLIQ01",
     "value" : "liquid_neptunium"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/FRARADLIQ02",
+    "value" : "liquid_plutonium"
   }
 ]

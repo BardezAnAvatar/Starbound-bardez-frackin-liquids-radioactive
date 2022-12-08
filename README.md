@@ -34,7 +34,7 @@ This mod does the following:
   - [X] Liquid Neptunium
   - [X] Liquid Thorium
 - [ ] Adds research recipes to the research system for these liquids
-  - [ ] Liquid Plutonium
+  - [X] Liquid Plutonium
   - [ ] Liquid Uranium
   - [X] Liquid Neptunium
   - [ ] Liquid Thorium

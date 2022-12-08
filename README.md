@@ -20,7 +20,7 @@ This mod does the following:
 - [ ] Adds centrifuge recipes to Frackin' Universe centrifuges for these liquids
   - [X] Liquid Plutonium
     - Yields Plutonium ore, oxygen, uranium ore
-  - [ ] Liquid Uranium
+  - [X] Liquid Uranium
     - Yields Uranium ore, oxygen, thorium ore, lead
   - [X] Liquid Neptunium
     - Yields Neptunium ore, oxygen, Plutonium ore, lead

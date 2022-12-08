@@ -18,7 +18,6 @@
     "path" : "/itemMapLiquids/molten-neptunium",
     "value" : {
       "plutoniumore": ["rare", 2],
-      "lead": ["rare", ],
       "fu_oxygen": ["uncommon", 3],
       "neptuniumore": ["uncommon", 2]
     }
@@ -30,6 +29,16 @@
       "uraniumore": ["rare", 2],
       "fu_oxygen": ["uncommon", 3],
       "plutoniumore": ["uncommon", 2]
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/itemMapLiquids/molten-uranium",
+    "value" : {
+      "thoriumore": ["rare", 2],
+      "lead": ["rare", 1],
+      "fu_oxygen": ["uncommon", 3],
+      "uraniumore": ["uncommon", 2]
     }
   }
 ]

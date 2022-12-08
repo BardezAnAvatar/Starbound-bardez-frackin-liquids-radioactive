@@ -1,14 +1,14 @@
 {
   "input" : [
-    { "item" : "plutoniumrod", "count" : 1 }
+    { "item" : "uraniumrod", "count" : 1 }
   ],
   "output" : {
-    "item" : "molten-plutonium",
+    "item" : "molten-uranium",
     "count" : 4
   },
   "duration" : 0.2,
   "groups" : [
-    "fissionfurnace", "smelt",
+    "craftingfurnace3", "smelt",
     "nouncrafting", "norecycling" //both of these prevent un-crafting in other mods
   ]
 }

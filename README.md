@@ -28,12 +28,15 @@ This mod does the following:
   - [X] Liquid Thorium
     - Yields Thorium ore, oxygen, lead (representing end of chain), unstable particles (representing Radium/Radon, alpha and beta decay, etc.)
 - [ ] Adds conversion recipes to the Fission Furnace for these liquids
+  - [ ] Liquid Plutonium
+  - [ ] Liquid Uranium
+  - [ ] Liquid Neptunium
+  - [ ] Liquid Thorium
 - [ ] Adds research recipes to the research system for these liquids
-  - [ ] Radioactive Ores
-    - [ ] Liquid Plutonium
-    - [ ] Liquid Uranium
-    - [ ] Liquid Neptunium
-    - [ ] Liquid Thorium
+  - [ ] Liquid Plutonium
+  - [ ] Liquid Uranium
+  - [ ] Liquid Neptunium
+  - [ ] Liquid Thorium
 - [ ] Adds liquid mixing reactions
   - [ ] TODO: what reactions do I want to add?
     - All of the radioactive ones should net some fun interactions to other radioactive liquids

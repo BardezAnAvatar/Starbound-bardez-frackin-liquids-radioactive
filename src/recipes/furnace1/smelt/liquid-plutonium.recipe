@@ -8,7 +8,7 @@
   },
   "duration" : 0.2,
   "groups" : [
-    "craftingfurnace2", "smelt",
+    "craftingfurnace", "smelt",
     "nouncrafting", "norecycling" //both of these prevent un-crafting in other mods
   ]
 }

@@ -1,6 +1,6 @@
 {
   "itemName" : "molten-plutonium",
-  "rarity" : "uncommon",
+  "rarity" : "common",
   "category" : "liquid",
   "inventoryIcon" : "molten-plutonium.png",
   "shortdescription" : "Liquid Plutonium",

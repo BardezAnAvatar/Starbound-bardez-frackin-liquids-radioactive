@@ -1,0 +1,31 @@
+[
+  //liquid neptunium
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_neptunium",
+    "value" : {
+      "icon" : "/items/liquids/molten-neptunium.png",
+      "children" : [ ],
+      "position" : [-160, 80],
+      "price" : [["fuscienceresource", 4000], ["neptuniumrod", 3]],
+      "unlocks" : [ "molten-neptunium" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/isotopes3/children",
+    "value" : [ "liquid_neptunium" ]
+  },
+  //strings
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_neptunium",
+    "value" : [ "Molten Neptunium", "^orange;Tier 4^reset;\n\n^cyan;Neptunium^reset; (^gray;Np^reset;), heated to its melting point of 917 K (644 C) under standard pressure.\n\nNeptunium-237 is the most common isotope of the element, with a half-life of 2,144,000 years. Neptunium is the starting element of the \"Neptunium series\" of radioactive decay which ends with the stable element of lead (^gray;Pb^reset;).\n\nRequires an ^orange;Industrial Furnace^reset; to smelt." ]
+  },
+  //acronyms
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/FRARADLIQ01",
+    "value" : "liquid_neptunium"
+  }
+]

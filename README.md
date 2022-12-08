@@ -37,7 +37,7 @@ This mod does the following:
   - [X] Liquid Plutonium
   - [ ] Liquid Uranium
   - [X] Liquid Neptunium
-  - [ ] Liquid Thorium
+  - [X] Liquid Thorium
 - TODO: Things I am not yet certain whether to do
   - Liquids I am debating
     - [ ] ~~Liquid~~ Gas Tritium

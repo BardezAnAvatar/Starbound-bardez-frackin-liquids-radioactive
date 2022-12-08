@@ -76,7 +76,7 @@
   {
     "op" : "add",
     "path" : "/strings/research/liquid_plutonium",
-    "value" : [ "Molten Plutonium", "^orange;Tier 2^reset;\n\n^cyan;Plutonium^reset; (^gray;Pu^reset;), heated to its melting point of 912.5 K (639.4 C) under standard pressure.\n\nPlutonium-244 is the longest-living isotope with a half-life of 80.8 million years, though plutonium-239 is the principal form used with fissile reactions. Notably, plutonium-240 yields spontaneous fission reactions and is highly unstable. Plutonium naturally decays by radioactivity into uranium (^gray;U^reset;).\n\nRequires an ^orange;Industrial Furnace^reset; to smelt." ]
+    "value" : [ "Molten Plutonium", "^orange;Tier 2^reset;\n\n^cyan;Plutonium^reset; (^gray;Pu^reset;), heated to its melting point of 912.5 K (639.4 C) under standard pressure.\n\nPlutonium-244 is the longest-living isotope with a half-life of 80.8 million years, though plutonium-239 is the principal form used with fissile reactions. Notably, plutonium-240 yields spontaneous fission reactions and is highly unstable. Plutonium naturally decays by radioactivity into uranium (^gray;U^reset;).\n\nRequires a ^orange;Primitive Furnace^reset; to smelt." ]
   },
   {
     "op" : "add",

@@ -4,7 +4,7 @@
   "category" : "liquid",
   "inventoryIcon" : "molten-plutonium.png",
   "shortdescription" : "Liquid Plutonium",
-  "description" : "A measure of molten plutonium (^gray;Pu^reset;). Elemental byproduct of radioactive decay.\n^yellow;Centrifugable^reset;.\n^blue;+^white;2 ^blue;Fuel^reset;",
+  "description" : "A measure of molten plutonium (^gray;Pu^reset;). Elemental byproduct of radioactive decay.\n^yellow;Centrifugable^reset;. ^blue;+^white;2 ^blue;Fuel^reset;",
   "liquid" : "liquid-plutonium",
   "price": 200,
   "fuelAmount": 2

@@ -50,6 +50,23 @@
     "path" : "/researchTree/fu_geology/isotopes4/children",
     "value" : [ "liquid_thorium" ]
   },
+  //liquid uranium
+  {
+    "op" : "add",
+    "path" : "/researchTree/fu_geology/liquid_uranium",
+    "value" : {
+      "icon" : "/items/liquids/molten-uranium.png",
+      "children" : [ ],
+      "position" : [ -30, 120 ],
+      "price" : [["fuscienceresource", 5000], ["uraniumrod", 3]],
+      "unlocks" : [ "molten-uranium" ]
+    }
+  },
+  {
+    "op" : "replace",
+    "path" : "/researchTree/fu_geology/isotopes2/children",
+    "value" : [ "liquid_uranium" ]
+  },
   //strings
   {
     "op" : "add",
@@ -66,6 +83,11 @@
     "path" : "/strings/research/liquid_thorium",
     "value" : [ "Molten Thorium", "^orange;Tier 5^reset;\n\n^cyan;Thorium^reset; (^gray;Th^reset;), heated to its melting point of 2023 K (1750 C) under standard pressure.\n\nThorium-232 is the only isotope of thorium occurring in quantity in nature, with a half-life of 14.05 billion years (the age of the universe), though is not fissile itself; it is a breeding element for uranium-233 (^gray;U^reset;) under neutron bombardment.\n\nRequires an ^orange;Atomic Furnace^reset; to smelt." ]
   },
+  {
+    "op" : "add",
+    "path" : "/strings/research/liquid_uranium",
+    "value" : [ "Molten Uranium", "^orange;Tier 3^reset;\n\n^cyan;Uranium^reset; (^gray;U^reset;), heated to its melting point of 1405.3 K (1132.2 C) under standard pressure.\n\nUranium appears naturally in multiple isotopes, with uranium-235 being the only naturally-found fissile isotope. Some isotopes are fertile and bred into plutonium (^gray;Pu^reset;).\n\nRequires an ^orange;Atomic Furnace^reset; to smelt." ]
+  },
   //acronyms
   {
     "op" : "add",
@@ -81,5 +103,10 @@
     "op" : "add",
     "path" : "/acronyms/fu_geology/FRARADLIQ03",
     "value" : "liquid_thorium"
+  },
+  {
+    "op" : "add",
+    "path" : "/acronyms/fu_geology/FRARADLIQ04",
+    "value" : "liquid_uranium"
   }
 ]
